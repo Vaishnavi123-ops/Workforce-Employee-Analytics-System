@@ -208,4 +208,4 @@ Vaishnavi Pithal
 
 B.Tech Computer Science Engineering (IoT)
 
-Aspiring Data Analyst | HR Analytics | Business Analytics
+Aspiring Data Analyst | HR Analytics | Analytics
